@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nimshan-isuranga
-- 👀 I’m interested in Web Develping and Digital System Design
-- 🌱 I’m currently learning React | Laravel | Flutter | Django | MongoDB | Node.js |React Native 
+- 👀 I’m interested in Web Develping and Digital System Design and ML
+- 🌱 I’m currently learning MERN Stack and ML and Deep Learning and Verilog
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me nimshanebiz@gmail.com
 
